@@ -4,7 +4,8 @@ This database contains 76 attributes, but all published experiments refer to usi
 
 Additional Information
 
-Only 14 attributes used:
+* Only 14 attributes used:
+  
       1. age       
       2. sex       
       3. cp        
@@ -21,7 +22,8 @@ Only 14 attributes used:
       14. num     (the predicted attribute)
 
 
-Complete attribute documentation:
+*Complete attribute documentation:
+
       1. age: age in years
       2. sex: sex (1 = male; 0 = female)
       3. cp: chest pain type
